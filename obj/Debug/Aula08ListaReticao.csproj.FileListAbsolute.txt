@@ -1,0 +1,7 @@
+D:\Users\luis.fpcunha\source\repos\Aula08ListaReticao\Aula08ListaReticao\bin\Debug\Aula08ListaReticao.exe.config
+D:\Users\luis.fpcunha\source\repos\Aula08ListaReticao\Aula08ListaReticao\bin\Debug\Aula08ListaReticao.exe
+D:\Users\luis.fpcunha\source\repos\Aula08ListaReticao\Aula08ListaReticao\bin\Debug\Aula08ListaReticao.pdb
+D:\Users\luis.fpcunha\source\repos\Aula08ListaReticao\Aula08ListaReticao\obj\Debug\Aula08ListaReticao.csproj.AssemblyReference.cache
+D:\Users\luis.fpcunha\source\repos\Aula08ListaReticao\Aula08ListaReticao\obj\Debug\Aula08ListaReticao.csproj.CoreCompileInputs.cache
+D:\Users\luis.fpcunha\source\repos\Aula08ListaReticao\Aula08ListaReticao\obj\Debug\Aula08ListaReticao.exe
+D:\Users\luis.fpcunha\source\repos\Aula08ListaReticao\Aula08ListaReticao\obj\Debug\Aula08ListaReticao.pdb
